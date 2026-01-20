@@ -1,3 +1,10 @@
+![Findings](images/Findings_CX.png)
+
+
+
+
+
+
 ### What is CX Driver Modelling?
 
 A data-driven methodology solving the CX prioritisation problem: determining which operational 
@@ -12,3 +19,4 @@ quality, or customer service first? Which delivers best satisfaction ROI?
 By leveraging ML we can surface what factors separate satisfied customers from dissatisfied ones at the model level. 
 By analysing what differentiates Promoters from Detractors across multiple data sources and validating our hypothesis,
 we quantify each factor's likely impact on satisfaction.
+
